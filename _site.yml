@@ -6,5 +6,10 @@ output:
     self_contained: no  
     theme: sandstone
     css: style.css
+    toc: true  
+    toc_float:
+      collapsed: false
+      smooth_scroll: false
+    toc_depth: 2
 navbar:  
   title: "Ye Xilei" 

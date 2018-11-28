@@ -4,7 +4,8 @@ title: "Ye Xilei"
 # WELCOME TO MY WEBPAGE!
 
 
-![](My picture.jpg)
+<center><img src="My_Picture.jpg" width="350px"></center>
+
 
 My name is Ye Xilei(Sophie). I am a postgraduate student in the University of Glasgow's
 [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/).
@@ -75,8 +76,10 @@ My current research interest is in twitter bullying, to discover contributors of
     
 * 06/2017
 
-    * Presentation of Innovation Projects for Undergraduates in Tianjin Normal University (See ![Poster](Poster.jpg))
+    * Presentation of Innovation Projects for Undergraduates in Tianjin Normal University (See poster below)
     
+    <center><img src="Poster.jpg" width="350px"></center>
+
         * Thesis: An Investigation of How Online Sellers' Attitudes Affect Green Consumption Intentions for Online Consumers (Unpublished)
 
 # PRIZES
