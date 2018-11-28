@@ -1,6 +1,112 @@
 ---
-title: "Academic Webpage of Ye Xilei"
+title: "Ye Xilei"
 ---
-I am a postgraduate student in the University of Glasgow's
+# WELCOME TO MY WEBPAGE!
+
+My name is Ye Xilei(Sophie). I am a postgraduate student in the University of Glasgow's
 [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/).
-I work with [Dr Sara Sereno](https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/staff/sarasereno/)
+I work with [Dr. Sara Sereno](https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/staff/sarasereno/).
+
+# MY RESEARCH INTERESTS
+
+My current research interest is in twitter bullying, to discover contributors of cyberbullying, and I am also fascinating about the cognitive decision. I used to work on the topic of [choice blindness](https://www.researchgate.net/publication/266912586_The_Influence_of_Facial_Attractiveness_and_Personality_Labels_on_Men_and_Women's_Mate_Preference) for my undergraduate thesis. The aim of this research was to explore how different emotion valences affects individual preference perception, and to explain mechanisms of choice blindness based on memory theories. I expect to give explanation of the choice blindness from neuroscience perspective.
+
+# EDUCATION BACKGROUND
+
+* 09/2018-Current
+
+    * A master candidate of [Research Methods of Psychological Science](https://www.gla.ac.uk/postgraduate/taught/psychologicalscienceresearchmethodsof/)in [School of Psychology](https://www.gla.ac.uk/schools/psychology/) of [University of Glasgow](https://www.gla.ac.uk/)
+    
+    * Supervisor: [Dr. Sara Sereno](https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/staff/sarasereno/)
+    
+    * Research Project: An Investigation of How Tweet Valence, Volume of Abuse and Dark Triad Personality Factors Impact Observers' Perceptions Of Victim Blame and Severity (This research is under the guidance of both [Dr. Sara Sereno](https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/staff/sarasereno/)and [Mr.Graham Scott](https://www.researchgate.net/profile/Graham_Scott8))
+    
+        * The purpose of this research is to investigate how tweet valence, volume of abuse and dark triad personality of participants or observers would influence perceptions of victim blame and incident severity.
+        
+
+* 09/2014-06/2017
+
+    * Bachelor of Science of Applied Psychology in [School of Educational Science](http://jykx.tjnu.edu.cn/) of [Tianjin Normal University](http://www.tjnu.edu.cn/) in Tianjin, China
+    
+    * Supervisor:[Dr.Tang Weihai](http://jykx.tjnu.edu.cn/info/1180/2398.htm)
+    
+    * Dissertation: Effects of Emotion on Choice Blindness
+    
+        * This research aims to explore the impact of positive emotion on choice blindness and explain mechanisms of choice blindness based on Memory Representation Theory.
+
+* 09/2013-07/2014
+
+    * Major in Teaching Chinese to Speakers of Other Languages (TCSL) in [College of Arts](http://wxy.tjnu.edu.cn/) of [Tianjin Normal University](http://www.tjnu.edu.cn/)
+    
+# PROFESSIONAL EXPERIENCES
+
+* 03/2016-06/2016
+
+    * Being appointed as a volunteer of psychological consultant for women who experienced domestic violence in Public Legal Service Aid Centre (Associated with [Women Federation in Tianjin](http://www.xinddy.com/zjfl/index.shtml)), Yang Liu Qing Town Xi Qing District, Tianjin, China
+    
+        * Duties: Undertaking the psychological consulting for female clients who experienced domestic violence and organizing information about clients.
+        
+* 09/2015-10/2015
+
+    * Being appointed as a telephone consultant in school-based mental health center in Tianjin Normal University (More information see [Institute of Psychology and Behavior in Tianjin Normal University](http://psy.tjnu.edu.cn/index.htm))
+    
+        * Duties: Providing psychological service to clients through telephone consultation and collecting clients' information. Referring clients to professional consultants when necessary.
+
+# SUMMARY OF RESEARCH
+
+04/2016-04/2017
+
+* Supervisor: [Wang Xiaozhuang](http://psy.tjnu.edu.cn/info/1206/2684.htm)
+
+* Research Project: Exploring how the intention of green consumption for online consumers was influenced by attitudes of online sellers.
+
+    * This research applied qualitative methods and purposed to investigate what kind of persuasive attitudes that online sellers use could promote online consumers to purchase eco-friendly commodities
+    
+* Duties: Designing the research methods, contacting with online sellers, collecting related materials, and analyzed the data.
+
+# CONFERENCES AND PRESENTATIONS
+
+* 02/2016
+
+    * [18th National Congress of Psychology in China](http://psy.tjnu.edu.cn/info/1071/2863.htm)
+    
+* 06/2017
+
+    * Presentation of Innovation Projects for Undergraduates in Tianjin Normal University 
+    
+        * Thesis: An Investigation of How Online Sellers' Attitudes Affect Green Consumption Intentions for Online Consumers (Unpublished)
+
+# PRIZES
+
+* First-grade of Innovation Projects for Undergraduates in Tianjin Normal University 
+
+* Advanced Individual in Campus Media, Student Union
+
+# PROFESSIONAL SKILLS
+
+* Programming: R Programming; Visual Basic
+
+* Statistical Software: SPSS
+
+# OTHER SKILLS
+
+* Music: Qualified to grade 10 on the piano and grand 4 on vocal music performance
+
+* Sports: Swimming
+
+* Extracurricular Intership: Journalist of School Campus in Tianjin Normal University
+
+# CONTACT ME
+
+* Address: Department of Psychology, University of Glasgow, Glasgow, 62 Hillhead Street, Glasgow G12 8QB, Scotland, UK
+
+* E-mail: 2336992Y@Student.gla.ac.uk
+
+* You can also send messages to me on [Twitter](https://twitter.com/YXilei) or on [Facebook](https://www.facebook.com/xilei.ye.96)
+
+
+# ABOUT
+
+Homepage [Personal Academic Website](https://github.com/Sophie0304/mywebpage)
+
+You can EXPLORE MORE from [here](http://www.psy.gla.ac.uk/staff/?id=XY001) or back to [My Webpage](index.html). You can also find me with a link to [Google](http://google.com)
