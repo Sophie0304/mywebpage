@@ -2,8 +2,9 @@ name: "mywebpage"
 author: "Ye Xilei"  
 output_dir: "docs"  
 output:  
-  html_document:  
+  html_document:
     self_contained: no  
-    theme: sandstone  
+    theme: sandstone
+    css: style.css
 navbar:  
   title: "My First Webpage" 

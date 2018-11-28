@@ -1,3 +1,10 @@
+html {
+  font-size: 2em;
+  font-family: "Times New Roman";
+  color: white;
+  background-color: hsl(360, 100%, 20%);
+}
+
 h1, h2, h3 {
   text-align: center;
   color: hsl(0, 100%, 20%);
@@ -14,7 +21,7 @@ p {
 }
 
 ul {
-  border: 3px dotted red;
+  border: 1px solid black;
   border-radius: 10px;
   padding: 10px 30px;
 }
