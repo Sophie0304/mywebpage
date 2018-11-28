@@ -1,4 +1,4 @@
-name: "mywebpage"  
+name: "Ye Xilei"  
 author: "Ye Xilei"  
 output_dir: "docs"  
 output:  
@@ -7,4 +7,4 @@ output:
     theme: sandstone
     css: style.css
 navbar:  
-  title: "My First Webpage" 
+  title: "Ye Xilei" 
